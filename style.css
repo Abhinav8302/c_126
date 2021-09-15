@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+
+
+.div_song{
+    float: right;
+}
+
+#song{
+    font-size: 30px;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px ;
+}
+.Play_Button{
+    width: 130;
+    font-size: 25px;
+    
+}
